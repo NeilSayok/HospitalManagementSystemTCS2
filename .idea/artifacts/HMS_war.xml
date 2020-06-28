@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HMS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HMS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TCS_HMS.war">
+      <element id="artifact" artifact-name="HMS:war exploded" />
+    </root>
+  </artifact>
+</component>
