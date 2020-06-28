@@ -1,0 +1,26 @@
+.cust-table-header {
+  background: rgb(72,72,72);
+  color: white;
+  /*height: 10px;*/
+  /*max-height: 10px;*/
+  /*min-height: 10px;*/
+}
+
+.cust-th {
+  font-weight: 300;
+  /*padding: 0.25rem;*/
+}
+
+.table td {
+  border: 1px solid black;
+  padding: 0.25rem;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(226,226,226);
+}
+
+.table thead th {
+  padding: 0.25rem;
+}
+

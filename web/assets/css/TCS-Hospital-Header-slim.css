@@ -1,0 +1,22 @@
+.header-hospital-login {
+  display: flex;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(154,207,248);
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown.header-dropdown {
+  display: inline;
+  margin: 0px 24px;
+}
+
+.btn.btn-primary.dropdown-toggle.dropdown-btn {
+  background-color: rgb(38,155,244);
+  color: black;
+  border: 2px solid black;
+  border-radius: 0px;
+  min-width: 150px;
+}
+
